@@ -15,11 +15,6 @@
 
 热力图使用文档：https://malinkang.com/posts/github_heatmap/
 
-## 捐赠
-
-如果你觉得本项目帮助了你，请作者喝一杯咖啡，你的支持是作者最大的动力。本项目会持续更新。
-
-![](./asset/WechatIMG27.jpg)
 
 ## 问题解答
 
@@ -38,13 +33,3 @@
     * URL：网页链接
     * Categories：分类
     * Progress：阅读进度
-
-
-## 微信群
-> [!WARNING]  
-> 微信群已满，加我备注微信读书，我拉你进群。
-> 也可以加TG群：https://t.me/wereadnotion
-
- ![image](./asset/WechatIMG24.jpg)
-
-
